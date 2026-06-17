@@ -1,0 +1,9 @@
+{
+  "name": "consumer-service",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "mysql2": "^3.9.0"
+  }
+}
